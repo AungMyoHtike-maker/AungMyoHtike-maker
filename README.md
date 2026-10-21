@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Aung Myo Htike 👋
 
-<!--
-**AungMyoHtike-maker/AungMyoHtike-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate interested in programming, data analysis, and software development.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MATLAB
+
+Python
+
+C#
+
+Featured Project
+
+MATLAB Data Analyzer
+
+A MATLAB GUI application for CSV data analysis and visualization.
+
+Load and preview CSV data
+
+Calculate summary statistics
+
+Visualize data with plots and histograms
+
+Export reports and graphs
+
+View MATLAB Data Analyzer
+
+Goals
+
+Improve my programming skills
+
+Build practical software projects
+
+Develop my career in data analysis and software development
